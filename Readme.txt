@@ -4,8 +4,8 @@ How to Run Project
 
 Database Configuration
 Open phpmyadmin "http://localhost/phpmyadmin"
-Create Database bbdms
-Import database bbdms.sql (available inside zip package)
+Create Database edms
+Import database edms.sql (available inside zip package)
 Open Your browser put inside browser “http://localhost/bbdms”
 
 For Admin Panel
